@@ -18,7 +18,11 @@ https://public.tableau.com/profile/spencer.holley#!/vizhome/Book1_16135680939230
 
 ## Findings
 1. Calls, self reports, the mobile app, and self service are the major sources of requests, with the 15 mediums being extremley rare. Calls are the most common with nearly half the requests being calls.
+<img src="Images/Q1.jpg/">
+
 
 2. The main trend I notice is That the encampments are more concentrated in Southern LA and downtown. While being less concentrated in Santa Monica, Bel Aire, the Pacific Palisades, and the Hollywood Hills are notably less concentrated. This is likley because these areas are more expensive and tend to be higher income.
+<img src="Images/Q2.jpg/">
 
 3. Within the city Boyle Heights had the most requests, with over 2% of the city's requests taking place their. Graffiti Removal was the most poplular request type in this neighborhood, with Bulky Items remaining as a close second.
+<img src="Images/Q3.jpg/">
