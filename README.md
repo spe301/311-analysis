@@ -5,7 +5,7 @@ We have all of the 311 service requests in 2020, totaling 1.4 million. The goal 
 
 I recently startedworking a Tableau Report for this dataset.
 
-https://public.tableau.com/profile/spencer.holley#!/vizhome/Book1_16135680939230/Sheet1?publish=yes
+https://public.tableau.com/profile/spencer.holley#!/vizhome/Book1_16135680939230/Sheet6?publish=yes
 
 ## EDA Questions
 
