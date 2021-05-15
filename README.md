@@ -21,7 +21,7 @@ https://public.tableau.com/profile/spencer.holley#!/vizhome/Book1_16135680939230
 <img src="Images/Q1.png/">
 
 
-2. The main trend I notice is That the encampments are more concentrated in Southern LA and downtown. While being less concentrated in Santa Monica, Bel Aire, the Pacific Palisades, and the Hollywood Hills are notably less concentrated. This is likley because these areas are more expensive and tend to be higher income.
+2. The main trend I notice is That the encampments are more concentrated in Southern LA and downtown. While being less concentrated in Santa Monica, Bel Aire, the Pacific Palisades, and the Hollywood Hills are notably less concentrated. This is likley because these areas are more expensive and tend to be higher income. However, the Venice Beach area, 90291 zip code, had the highest number of homeless encampment removal requests at 2,997 throughout 2020!
 <img src="Images/Q2.png/">
 
 3. Within the city Boyle Heights had the most requests, with over 2% of the city's requests taking place their. Graffiti Removal was the most poplular request type in this neighborhood, with Bulky Items remaining as a close second.
